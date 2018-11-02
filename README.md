@@ -1,4 +1,4 @@
-# TMX Stock News Scrapper
+# TMX Stock News Scraper
 Delivers the latest news for stock tickers to your email
 
 
