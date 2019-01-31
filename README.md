@@ -1,8 +1,10 @@
 # TMX Stock News Scraper
 Delivers the latest news for stock tickers to your email
 
+<p align="center"> 
+<img src="https://imgur.com/6sRNS5f.jpg">
+</p>
 
-![ss](https://imgur.com/6sRNS5f.jpg)
 
 Add the stocks you want news from into the tickername.txt file seperated by a comma eg. RY, TD, ACB...
 
